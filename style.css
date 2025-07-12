@@ -1,0 +1,14 @@
+ .count{
+        color: rgb(1, 86, 1);
+    }
+    .btn{
+        background-color: rgba(255, 255, 240, 0);
+        border-radius: 5px;
+        border: 2px solid black;
+    }
+    div{
+        background-color:rgb(119, 255, 210);
+        padding: 20px;
+      text-align: center;
+        
+    }
